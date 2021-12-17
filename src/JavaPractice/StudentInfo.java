@@ -4,7 +4,7 @@ public class StudentInfo {
 
 	public static void main(String[] args) {
 
-		System.out.println("Trial");
+		System.out.println("Trial updated");
 		Student stud1 = new Student();
 		stud1.insertRecord(1, "Shweta");
 		stud1.displayInfo();
